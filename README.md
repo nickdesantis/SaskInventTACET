@@ -11,3 +11,9 @@ This is the part where we do a bunch of math to analyze audio.
 We use this piece to command the Core to figure out what kind of analysis we want to do.
 ## Python <--> Arduino Command Bridge
 Because eventually we want to control something physical.
+
+## Things to Download
+0. python
+1. pycharm
+2. qt-creator
+3. pyside2
