@@ -5,7 +5,7 @@ int i; // Counter variable, reused a couple of times
 
 // hold motor pin numbers
 int motorPins[NUM_MOTORS] = {2, 3, 4, 5};
-int selectPin = 6;
+int selectPin = 7;
 byte (*song)[NUM_MOTORS][SONG_LEN] = NULL;
 
 // Time:
